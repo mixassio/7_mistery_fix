@@ -1,6 +1,7 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This script use for solution of the quadratic equation.
+
 
 # Project Goals
 
